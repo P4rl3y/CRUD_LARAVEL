@@ -8,6 +8,7 @@
     <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Kufam:ital@0;1&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ asset('css/main.css') }}" />
     <style>
         nav{
             font-family: 'Kufam', cursive;
